@@ -45,6 +45,7 @@ Custom WordPress website developed for Apex Sports Academy, a premium sports tra
 > A static HTML export (apexsportsindia.in.html) can be included in this repo for offline reference (non-interactive).
 
 Open to discussing similar sports, fitness, coaching, or academy WordPress projects!
+This Project was developed under the supervision of the Senior Developer @aveshhus
 
 📧 eshbanoliver@gmail.com 
 LinkedIn: https://in.linkedin.com/in/eshban-oliver-757352372
